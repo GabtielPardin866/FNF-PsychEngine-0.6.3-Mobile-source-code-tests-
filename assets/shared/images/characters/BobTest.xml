@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BobTest.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Idle00010000" x="1075" y="0" width="271" height="433" frameX="-518" frameY="-521" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle00020000" x="539" y="460" width="274" height="429" frameX="-526" frameY="-525" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle00030000" x="0" y="905" width="277" height="417" frameX="-534" frameY="-537" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle00040000" x="539" y="460" width="274" height="429" frameX="-526" frameY="-525" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Idle00050000" x="1075" y="0" width="271" height="433" frameX="-518" frameY="-521" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Left00010000" x="269" y="460" width="270" height="438" frameX="-514" frameY="-516" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Left00020000" x="805" y="0" width="270" height="445" frameX="-500" frameY="-509" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right00010000" x="536" y="0" width="269" height="448" frameX="-540" frameY="-506" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Right00020000" x="268" y="0" width="268" height="453" frameX="-548" frameY="-501" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Down00010000" x="1346" y="0" width="273" height="420" frameX="-522" frameY="-534" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Down00020000" x="277" y="905" width="278" height="398" frameX="-529" frameY="-556" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Up00010000" x="0" y="460" width="269" height="445" frameX="-510" frameY="-509" frameWidth="1280" frameHeight="1280"/>
+	<SubTexture name="Up00020000" x="0" y="0" width="268" height="460" frameX="-505" frameY="-494" frameWidth="1280" frameHeight="1280"/>
+</TextureAtlas>
